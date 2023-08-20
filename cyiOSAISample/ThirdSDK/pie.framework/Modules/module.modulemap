@@ -1,0 +1,6 @@
+framework module pie {
+   umbrella header "pie-ios.h"
+
+   export *
+   module * { export * }
+}

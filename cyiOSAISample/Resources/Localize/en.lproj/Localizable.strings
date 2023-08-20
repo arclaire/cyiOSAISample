@@ -1,0 +1,308 @@
+/* 
+  Localize.strings
+ cyiOSAISample
+
+  Created by Michael on 13/09/19.
+  Copyright © 2020 JKT APPTech Limited. All rights reserved.
+*/
+
+"title_app" = "cyiOSAISample";
+
+"text_contact" = "We would love to hear from you! Contact us via email to services@apptime.vip";
+"text_top_features" = "Top Features";
+"text_top_filters" = "Top Filters";
+"text_all_photos" = "All Photos";
+"text_edit" = "EDIT";
+"text_camera" = "CAMERA";
+"text_frame" = "Frame";
+
+/**
+ Home Page
+ */
+"banner_anime" = "ANIME";
+"banner_hairstyle" = "HAIRSTYLES";
+"banner_aging" = "MACHINE";
+"banner_arts" = "LIFE";
+"banner_filter" = "FILTERS";
+"banner_cutout" = "CUTOUT";
+"banner_effect" = "MIRROR";
+"banner_young" = "YOUNGER";
+
+"banner_anime_title" = "COOL";
+"banner_hairstyle_title" = "VARIOUS";
+"banner_aging_title" = "TIME";
+"banner_arts_title" = "ARTS";
+"banner_filter_title" = "REAL-TIME";
+"banner_cutout_title" = "QUICKLY";
+"banner_effect_title" = "MAGIC";
+"banner_young_title" = "GETTING";
+
+"banner_young_description" = "Take you back to \nyour youth";
+"banner_anime_description" = "Quickly generate anime\ncartoon avatar";
+"banner_hairstyle_description" = "Easily experience various\ntrendy hairstyles";
+"banner_aging_description" = "Across time to meet\nyourself in future";
+"banner_arts_description" = "Unleash your creativity\nin one second";
+"banner_filter_description" = "Real-time preview of filter\neffects in camera";
+"banner_cutout_description" = "Transfer scenes in unlimited\ntime and space";
+"banner_effect_description" = "Special effects\nbeyond your imagination";
+
+"feature_frame" = "FRAME";
+"feature_anime" = "ANIME";
+"feature_aging" = "AGING";
+"feature_arts" = "ARTS";
+"feature_glitch" = "GLITCH";
+"feature_filter" = "FILTER";
+"feature_dynamic" = "DYNAMIC";
+"feature_cutout" = "CUTOUT";
+"feature_stickers" = "STICKERS";
+"feature_colorize" = "COLORIZE";
+"feature_effect" = "MAGIC\nMIRROR";
+"feature_younger" = "GETTING\nYOUNGER";
+
+/**
+ Camera
+ */
+"GiveLikeInSureCamera" = "You look awesome!";
+"SaveTitleInSureCamera" = "Save";
+"ShareTitleInSureCamera" = "Share";
+"EditorTitleInSureCamera" = "Edit";
+"RetakeTitleInSureCamera" = "Retake";
+
+"SureTitleInSureCameraToastView" = "Do you want to save this photo?";
+"SuccessSavedInSureCameraToastView" = "Image has been saved";
+"SuccessVideoSavedToastView" = "Video has been saved";
+
+/**
+Glitch
+*/
+"SuccessSavedInGlitch" = "Animation has been saved";
+
+/**
+ Editor Page
+ */
+"SavingTitleInEditorPage" = "Image has been saved";
+
+"ResizeTitleInEditorPage" = "Resize";
+"AdjustmentTitleInEditorPage" = "Adjustment";
+"FilterTitleInEditorPage" = "Filters";
+
+"CropInEditorPage" = "Crop";
+"AdjustInEditorPage" = "Adjust";
+"FilterInEditorPage" = "Filter";
+"ArtFilterTitleInEditorPage" = "Arts";
+"EffectsFilterTitleInEditorPage" = "Effects";
+"StickersTitleInEditorPage" = "Stickers";
+
+"ProcessFailedTitle" = "SORRY, PROCESSING FAILED";
+"ProcessFailedRetry" = "Retry";
+"ProcessFailedCancel" = "Cancel";
+"ProcessFailedOK" = "OK";
+"ProcessFailedInfoConnection" = "The network connection cannot be accessed. Try again?";
+"ProcessFailedInfoRequirements" = "Image seems too small to be processed. Try another one please.";
+"ProcessFailedInfoAPIProcess" = "This image could not be processed. Try another one please.";
+
+
+/**
+ Adjustment
+ */
+"BrightnessInAdjustmentFundation" = "Exposure";
+"SaturationInAdjustmentFundation" = "Saturation";
+"ContrastInAdjustmentFundation" = "Contrast";
+"TemperatureInAdjustmentFundation" = "Temperature";
+"SharpnessInAdjustmentFundation" = "Sharpness";
+"HighlightInAdjustmentFundation" = "Highlight";
+"ShadowInAdjustmentFundation" = "Shadow";
+"VignetteInAdjustmentFundation" = "Vignette";
+"MirrorInAdjustmentFundation" = "Mirror";
+"RotateInAdjustmentFundation" = "Rotate";
+"VerticalInAdjustmentFundation" = "Vertical";
+"HorizontalInAdjustmentFundation" = "Horizontal";
+"TransparencyInAdjustmentFoundation" = "Transparency";
+"BlurInAdjustmentFoundation" = "Blur";
+
+/**
+ Aging
+ */
+"MakeYourFaceWithinTheLine" = "Please make sure your face is within the line";
+"AgingValue90" = "90s";
+"AgingValue70" = "70s";
+"AgingValue50" = "50s";
+"FaceDetectedFailTitle" = "NO FACE DETECTED!";
+"FaceDetectedFailDesc" = "Oops, we cannot detect any face. Please upload photo with a complete human face, or make sure your face is within the line of the camera.";
+"FaceDetectedFailRetry" = "Retry";
+
+/**
+ Settings
+ */
+"ContactUs" = "Contact Us";
+"RateUs" = "Rate Us";
+"Version" = "Version";
+"cyiOSAISample" = "cyiOSAISample";
+"PrivacyPolicy" = "Privacy Policy";
+"TermsOfService" = "Terms of Service";
+"Copyright" = "©2020 AppTime Technology";
+"SotaCamPro" = "SotaCam PRO";
+"AccessAllFeatures" = "Access All Features";
+"FollowFacebook" = "Follow us on Facebook";
+"FeaturesInfo" = "Anime,Arts,Aging,Hairstyle,Filters and more";
+"UpgradeNow" = "Upgrade Now";
+
+/**
+ Permissions
+ */
+"PermissionGalleryTitle" = "Request access to your photos";
+"PermissionGallerySubtitle" = "SotaCam needs access to your photos then you can select and edit or save photos";
+"PermissionCameraTitle" = "\"SotaCam\" would like to access your camera";
+"PermissionCameraSubtitle" = "SotaCam needs access to your camera then you can take photos";
+"GoToSettings" = "Go To Settings";
+
+/**
+ VIP Pages
+ */
+"text_vip_features_title" = "Access All Premium Features";
+"text_promo_subscribe" = "• Access all effects and filters\n• New filters update every month\n• No Ads";
+"text_subscribe_now" = "Subscribe";
+"text_subscribe_restore_purchase" = "Restore Purchase";
+"text_subscribe_disclaimer" = "Payment for subscription will be automatically charged at the end of 3-day trial period. Payment will be charged to your iTunes Account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage or cancel your subscriptions by going to your account settings on the App Store after purchase. If you pay for a subscription during the free trial period, any unused portion of a free trial period will be forfeited immediately. If you purchase Lifetime PRO, you will be charged only one time and your access to all features and effects will be unlimited.";
+"text_subscribe_no_trial_disclaimer" = "Payment will be charged to your iTunes Account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage or cancel your subscriptions by going to your account settings on the App Store after purchase. If you purchase Lifetime PRO, you will be charged only one time, your access to all features and effects will be permanently and unlimited.";
+"text_subscribe_disclaimer_lifetime" = "Lifetime PRO Limited Time Offer is only %@. After the purchase is confirmed, payment will be charged to your iTunes account.You will be charged only one time, after the payment successful, your access to all features and effects will be permanently and unlimited.";
+"text_subscribe_disclaimer_weekly" = "Only %@/Week, Payment will be charged to your iTunes Account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage or cancel your subscriptions by going to your account settings on the App Store after purchase.";
+"text_subscribe_disclaimer_monthly" = "Only %@/Month, Payment will be charged to your iTunes Account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage or cancel your subscriptions by going to your account settings on the App Store after purchase.";
+"text_subscribe_disclaimer_yearly" = "Only %@/Year, Payment will be charged to your iTunes Account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage or cancel your subscriptions by going to your account settings on the App Store after purchase.";
+"text_subscribe_lifetime_retain_price" = "Only %@, Pay once, valid forever";
+"text_subscribe_weekly_retain_price" = "Then only %@/week, auto-renewable";
+"text_subscribe_monthly_retain_price" = "Then only %@/month, auto-renewable";
+"text_subscribe_yearly_retain_price" = "Then only %@/year, auto-renewable";
+"text_yearly" = "Yearly: ";
+"text_weekly" = "Weekly: ";
+"text_monthly" = "Monthly: ";
+"text_lifetime" = "Lifetime: ";
+"text_yearly_button" = "Yearly";
+"text_weekly_button" = "Weekly";
+"text_monthly_button" = "Monthly";
+"text_lifetime_button" = "Lifetime";
+"text_auto_renew_weekly" = "Plan auto-renews weekly, after 3-day free trial";
+"text_auto_renew_monthly" = "Plan auto-renews monthly, after 3-day free trial";
+"text_auto_renew_yearly" = "Plan auto-renews yearly, after 3-day free trial";
+"text_auto_renew_weekly_no_trial" = "Plan auto-renews weekly";
+"text_auto_renew_monthly_no_trial" = "Plan auto-renews monthly";
+"text_auto_renew_yearly_no_trial" = "Plan auto-renews yearly";
+"text_lifetime_desc" = "Pay once, valid for life, no renewal";
+"text_popup_subtitle" = "Access all Premium\nfeatures and filters";
+"text_upgrade_now" = "Upgrade Now";
+"text_and_then_price" = "And then";
+"text_acs_title" = "Access All";
+"text_acs_subtitle" = "Create dreamy artistic photos";
+"text_premium_features" = "Premium Features";
+"text_premium_lifetime" = "For Lifetime";
+"text_week" = "week";
+"text_are_you_sure" = "Not sure yet?";
+"text_try_app" = "SotaCam PRO";
+"text_try_trial" = "3-day FREE Trial";
+"text_cancel" = "Cancel";
+"text_try_free" = "Try It Free";
+"text_free_for_life" = "Free For Life";
+"text_continue" = "Continue";
+"text_planc_try" = "Try Now";
+"text_planc_getresult" = "View The Photo";
+"text_planc_title_anime" = "Your Anime image has been generated";
+"text_planc_title_younger" = "Photo of your youth is ready";
+"text_planc_title_hairstyle" = "Your new hairstyle has been generated";
+"text_planc_title_cutout" = "Your cutout image has been generated";
+"text_subscription_retain_title" = "Congratulations!";
+"text_subscription_retain_subtitle1" = "You got a reward!";
+"text_subscription_retain_subtitle2" = "Free trial for new users";
+"text_subscription_retain_subscribe" = "TRY IT FREE";
+
+/**
+ Stickers
+ */
+"text_search" = "Search";
+
+/**
+ Cutout
+ */
+"text_cutout_browse_title" = "Select a template";
+
+/**
+ Frame
+ */
+"text_frame_browse_title" = "Select a Frame";
+"text_frame_more" = "More";
+
+/**
+ Internet Helpers
+ */
+"text_no_internet" = "No Internet connection.";
+"text_turn_on_data" = "Make sure that Wi-Fi or mobile data is turned on, then try again.";
+
+/**
+ Quick Actions
+ */
+"text_quick_action_gallery" = "Gallery";
+"text_quick_action_camera" = "Camera";
+
+/**
+ Rate
+ */
+"text_store_review" = "Do you like cyiOSAISample?";
+"text_store_like" = "Yes, I like cyiOSAISample";
+"text_store_dislike" = "No, I want to give feedback";
+
+/**
+ Common
+*/
+"ProcessLoading" = "Processing...";
+"NoInternet" = "No Internet connection";
+"common_edit_gallery" = "Gallery";
+"common_edit_edit" = "Edit";
+"common_edit_home" = "Home";
+
+/**
+ Gallery
+ */
+"text_gallery_title" = "Select Photo";
+
+"SubscribeTick1" = "Constantly update frames, filters, stickers, templates";
+"SubscribeTick2" = "Access all materials of frames, filters, stickers, templates";
+"SubscribeTick3" = "Unlimited access to all advances features";
+
+
+"younger10" =  "10";
+"younger18" =  "18";
+"younger25" =  "25";
+"younger30" =  "30";
+
+"title_getting_younger" = "Getting Younger";
+"Select Age" = "Select Age";
+
+
+"FailedOperation.DetectNoFace" = "No face detected, please try again";
+"FailedOperation.FaceExceedBorder" = "No face detected, please try again";
+"FailedOperation.FaceSizeTooSmall" = "No face detected, please try again";
+
+"FailedOperation.FreqCtrl" = "Server busy, please try again later";
+"FailedOperation.ImageDecodeFailed.DetectNoFace" = "Server busy, please try again later";
+"FailedOperation.ImageDownloadError" = "Server busy, please try again later";
+"FailedOperation.ImageResolutionTooSmall" = "Server busy, please try again later";
+"FailedOperation.RequestEntityTooLarge" = "Server busy, please try again later";
+"FailedOperation.RequestTimeout" = "Server busy, please try again later";
+"InvalidParameterValue.FaceRectInvalidFirst" = "Server busy, please try again later.";
+"InvalidParameterValue.FaceRectInvalidSecond" = "Server busy, please try again later";
+"InvalidParameterValue.FaceRectInvalidThrid" = "Server busy, please try again later";
+"InvalidParameterValue.ImageSizeExceed" = "Server busy, please try again later";
+
+"InvalidParameterValue.NoFaceInPhoto" = "No face detected, please try again";
+
+"InvalidParameterValue.ParameterValueError" = "Server busy, please try again later";
+"ResourceUnavailable.Delivering" = "Server busy, please try again later";
+"ResourceUnavailable.Freeze" = "Server busy, please try again later";
+"ResourceUnavailable.GetAuthInfoError" = "Server busy, please try again later";
+"ResourceUnavailable.InArrears" = "Server busy, please try again later";
+"ResourceUnavailable.LowBalance" = "Server busy, please try again later";
+"ResourceUnavailable.NotReady" = "Server busy, please try again later";
+"ResourceUnavailable.Recover" = "Server busy, please try again later";
+"ResourceUnavailable.StopUsing" = "Server busy, please try again later";
+"ResourceUnavailable.UnknownStatus" = "Server busy, please try again later";
+"ResourcesSoldOut.ChargeStatusException" = "Server busy, please try again later";
+"title_navigation_galery" = "Select Photo";

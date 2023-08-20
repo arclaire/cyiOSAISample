@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+ cyiOSAISample
+
+  Created by Michael on 15/11/19.
+  Copyright © 2020 JKT APPTech Limited. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "深度相機";
+"CFBundleName" = "深度相機";
+"NSCameraUsageDescription" = "允許\"深度相機\"訪問相機即可拍攝新的照片並編輯和保存";
+"NSPhotoLibraryUsageDescription" = "允許\"深度相機\"訪問照片即可選擇照片進行編輯或保存照片";
+"NSMicrophoneUsageDescription" = "允許\"深度相機\"訪問麥克風即可爲您的視頻錄製聲音";

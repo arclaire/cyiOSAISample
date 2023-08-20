@@ -1,0 +1,19 @@
+//
+//  DCPrefixHeader.pch
+//  cyiOSAISample
+//
+//  Created by Michael on 25/09/19.
+//  Copyright © 2020 JKT APPTech Limited. All rights reserved.
+//
+
+#ifndef DCPrefixHeader_pch
+#define DCPrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#ifdef __OBJC__
+#import "ComClass.h"
+#endif
+
+#endif /* DCPrefixHeader_pch */

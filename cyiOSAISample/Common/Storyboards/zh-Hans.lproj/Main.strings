@@ -1,0 +1,219 @@
+
+/***
+Banner Slide Show
+*/
+"banner_art_title" = "艺术特效";
+"banner_art_desc" = "一键即可生成艺术风格大片";
+"banner_aging_title" = "变老特效";
+"banner_aging_desc" = "穿越时间看见未来的你";
+"banner_collage_title" = "拼贴组合";
+"banner_collage_desc" = "整理组合多个精彩瞬间";
+"banner_filter_title" = "风格滤镜";
+"banner_filter_desc" = "多样风格精美色彩滤镜";
+"banner_anime_title" = "动漫形象";
+"banner_anime_desc" = "无限次生成动漫形象";
+"banner_cutout_title" = "剪接工作室";
+"banner_cutout_desc" = "移形换影时空交错瞬间转移";
+"banner_effects_title" = "炫目特效";
+"banner_effects_desc" = "炫丽夺目特殊效果改变图片";
+"banner_smartfill_title" = "智能橡皮擦";
+"banner_smartfill_desc" = "不留痕迹完美擦除多余物体";
+"banner_glitch_title" = "故障视觉";
+"banner_glitch_desc" = "更高级的科技艺术视角";
+"banner_fullscreen_sticker_title" = "虚幻空间";
+"banner_fullscreen_sticker_desc" = "创新全屏半透明遮罩层";
+"banner_stickers_title" = "趣味装扮";
+"banner_stickers_desc" = "自拍必备满足所有幻想";
+
+/***
+ Home
+ */
+"TitleInNavigationBar" = "PicsMate";
+"Camera" = "相机";
+"Edit" = "编辑";
+"Trending" = "流行";
+"Filters" = "风格滤镜";
+"Arts" = "艺术特效";
+"Collage" = "拼贴组合";
+"Anime" = "动漫形象";
+"More" = "更多";
+"SmartFill" = "智能橡皮擦";
+"Effects" = "炫目特效";
+"Glitch" = "故障视觉";
+"Cutout" = "剪接工作室";
+"Stickers" = "趣味装扮";
+"Frame" = "虚幻空间";
+
+"feature_aging" = "变老特效";
+"feature_arts" = "艺术";
+"filter_zenith" = "Zenith";
+
+/***
+ Editor
+ */
+"CropTitleInEditorPage" = "尺寸";
+"AdjustmentTitleInEditorPage" = "调整";
+"FilterTitleInEditorPage" = "滤镜";
+"ArtsTitleInEditorPage" = "艺术";
+"AgingTitleInEditorPage" = "时光机";
+"EffectsTitleInEditorPage" = "特效";
+"StickersTitleInEditorPage" = "装扮";
+
+"EffectCategoryTint" = "着色";
+"EffectCategoryBasic" = "基本";
+"EffectCategoryMirror" = "镜子";
+
+"FreeTitleInCropModule" = "Free";
+
+"BrightnessInAdjustmentModule" = "亮度";
+"ContrastInAdjustmentModule" = "对比度";
+"SaturationInAdjustmentModule" = "饱和度";
+"TemperatureInAdjustmentModule" = "色温";
+"SharpenInAdjustmentModule" = "锐度";
+"HighlightInAdjustmentModule" = "高光";
+"VignetteInAdjustmentModule"  = "暗角";
+"ShadowInAdjustmentModule" = "阴影";
+"FlipInAdjustmentModule" = "翻转";
+
+"ImageSaved" = "已保存到系统相册";
+
+"FaceNotDetected" = "没有检测到脸部";
+
+/***
+ Settings
+ */
+"ContactUs" = "联系我们";
+"RateUs" = "鼓励我们";
+"TermsOfService" = "服务条款";
+"PrivacyPolicy" = "隐私政策";
+"AppVersion" = "必美相机 version";
+"AppCopyright" = "© 2020 Deepindo Technology";
+"Contact" = "我们很愿意倾听您的声音，欢迎随时通过customer@deepindo.com邮件联系我们";
+"AboutUs" = "关于我们";
+
+"PermissionCameraTitle" = "“必美相机”\n想访问\n您的相机";
+"PermissionGalleryTitle" = "请求访问\n您的照片";
+"PermissionCameraSubtitle" = "必美相机请求访问您的相机以便让您拍照。未经您允许，您的照片不会被保存或分享。";
+"PermissionGallerySubtitle" = "必美相机请求访问您的相册以便让您选择照片进行编辑。未经您允许，您的照片不会被保存或分享。";
+
+"GoToSettings" = "去设置";
+"OK" = "好";
+"Cancel" = "取消";
+"Continue" = "继续";
+"NotSureYet" = "您再想想？";
+
+/***
+ Subscribe
+ */
+"text_vip_features_title" = "访问所有VIP 素材和高级功能";
+"text_subscribe_disclaimer" = "订阅付款将在3天的试用期结束时自动收取。 购买确认后，付款将从您的iTunes帐户中扣除。 订阅会自动续订，除非在当前期限结束前至少24小时取消订阅。 我们会在当前期限结束前的24小时内向您的帐户收取续订费用。 购买后，您可以进入App Store的帐户设置来管理或取消订阅。 如果您在免费试用期内支付订阅费用，则免费试用期内未使用的任何部分将被立即没收。";
+"text_subscribe_disclaimerA2" = "购买确认后，付款将从您的iTunes账户中扣除。订阅会自动续订，除非在当前期限结束前至少24小时取消订阅。我们将会在当前期限结束前的24小时内向您的账户收取续订费用。购买后，您可以进入AppStore的账户设置来管理或取消订阅。";
+"text_subscribe_disclaimer_notrial" = "购买确认后，付款将从您的iTunes帐户中扣除。 订阅会自动续订，除非在当前期限结束前至少24小时取消订阅。 我们会在当前期限结束前的24小时内向您的帐户收取续订费用。 购买后，您可以进入App Store的帐户设置来管理或取消订阅。";
+"text_subscribe_disclaimer_weekly" = "仅需%@/周，购买确认后，付款将从您的iTunes帐户中扣除。 订阅会自动续订，除非在当前期限结束前至少24小时取消订阅。 我们会在当前期限结束前的24小时内向您的帐户收取续订费用。 购买后，您可以进入App Store的帐户设置来管理或取消订阅。";
+"text_subscribe_disclaimer_monthly" = "仅需%@/月度，购买确认后，付款将从您的iTunes帐户中扣除。 订阅会自动续订，除非在当前期限结束前至少24小时取消订阅。 我们会在当前期限结束前的24小时内向您的帐户收取续订费用。 购买后，您可以进入App Store的帐户设置来管理或取消订阅。";
+"text_subscribe_disclaimer_yearly" = "仅需%@/年，购买确认后，付款将从您的iTunes帐户中扣除。 订阅会自动续订，除非在当前期限结束前至少24小时取消订阅。 我们会在当前期限结束前的24小时内向您的帐户收取续订费用。 购买后，您可以进入App Store的帐户设置来管理或取消订阅。";
+"text_subscribe_weekly" = "每周：";
+"text_subscribe_monthly" = "每月：";
+"text_subscribe_yearly" = "每年：";
+"text_subscribe_auto_renew_weekly" = "3天免费试用，然后按周自动续费";
+"text_subscribe_auto_renew_weekly_notrial" = "按周自动续订";
+"text_subscribe_auto_renew_monthly" = "3天免费试用，然后按月自动续费";
+"text_subscribe_auto_renew_monthly_notrial" = "按月自动续订";
+"text_subscribe_auto_renew_yearly" = "3天免费试用，然后按年自动续费";
+"text_subscribe_auto_renew_yearly_notrial" = "按年自动续订";
+"text_subscribe_weekly_retain_price" = "然后仅需%@/周，可自动续订";
+"text_subscribe_monthly_retain_price" = "然后仅需%@/月度，可自动续订";
+"text_subscribe_yearly_retain_price" = "然后仅需%@/年，可自动续订";
+"text_subscribe_restore" = "恢复购买";
+"text_subscribe_popup_title" = "必美VIP";
+"text_subscribe_popup_subtitle" = "无限制访问所有功能";
+"text_subscribe_now" = "立即订阅";
+"text_subscribe_planb_subtitle" = "把照片变成大师级艺术品";
+"text_subscribe_features" = "艺术、变老、滤镜以及更多";
+"text_subscribe_try_app" = "PicsMate PRO高级功能";
+"text_subscribe_try_trial" = "3天免费试用";
+"text_subscribe_try_free" = "免费试用";
+"text_subscribe_access_all" = "访问所有功能";
+"text_subscribe_premium_features" = "高级功能";
+"text_planc_try" = "免费试用";
+"text_planc_getresult" = "查看我的效果";
+"text_popup_art_subtitle" = "您的艺术形象已经生成";
+"text_popup_aging_subtitle" = "您未来的样子已经生成";
+"text_popup_anime_subtitle" = "您的动漫形象已制作完成";
+"text_planc_view" = "查看照片";
+"text_subscribe_tick1" = "不断更新拼图样式、滤镜、贴纸、模板";
+"text_subscribe_tick2" = "访问所有拼图样式、滤镜、贴纸、模板";
+"text_subscribe_tick3" = "不限次数地访问所有高级功能";
+
+/**
+ Aging
+ */
+"text_face_area" = "请保持面部在线框内";
+
+/**
+ Quick Actions
+ */
+"text_quick_action_gallery" = "画廊";
+"text_quick_action_camera" = "相机";
+
+"YouGotAReward" = "现在新用户免费";
+"text_popup_art_subtitle" = "您的艺术形象已经生成";
+"text_popup_aging_subtitle" = "您未来的样子已经生成";
+
+"text_try_app" = "";// no need translation supposed to be empty
+"Congratulations" = "恭喜中奖啦!";
+"text_loading_process" = "正在处理...";
+"text_no_internet" = "没有网络连接\n确认Wi-Fi或移动数据已开启，然后再尝试";
+"text_ask_review" = "你喜欢必美相机么？";
+"text_review_like" = "是的，我喜欢";
+"text_review_dislike" = "不，我要反馈";
+"text_more_layout" = "更多布局";
+"title_navigation_collage" = "选择布局";
+"collage_cell_info" = "添加照片";
+
+"
+vigation_galery" = "选择照片";
+
+
+/**
+Anime
+*/
+"no_network_popup_title" = "抱歉，处理失败了";
+"no_network_popup_desc" = "网络连接无法访问，再试一次？";
+"retry" = "再试一次";
+
+"api_failed_popup_title" = "抱歉，处理失败了";
+"api_failed_popup_desc" = "这张图片无法处理，请尝试另外一张。";
+
+"img_too_small_popup_title" = "抱歉，处理失败了";
+"img_too_small_popup_desc" = "这张图片似乎太小了，请尝试另外一张。";
+
+/**
+SmartFill
+*/
+"brush" = "修改";
+"eraser" = "橡皮擦";
+"img_too_big_popup_title" = "抱歉，处理失败了";
+"img_too_big_popup_desc" = "图片似乎太大了，无法处理，请试试另一个。";
+
+/**
+ Cutout
+ */
+"text_cutout_browse_title" = "选择模板";
+
+/**
+ Stickers
+ */
+"text_search" = "搜索";
+"text_sticker_browse_title" = "选择贴纸";
+
+/**
+ Frame
+ */
+"text_frame_browse_title" = "选择全屏贴纸";
+"text_frame_more" = "更多";
+
+"category" = "张照片";
+"categories" = "张照片";
+
+"Subscription" = "订阅";

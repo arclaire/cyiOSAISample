@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="CellPhotoImages" customModule="cyiOSAISample">
+            <rect key="frame" x="0.0" y="0.0" width="105" height="150"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="105" height="150"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="T08-h7-eHk">
+                        <rect key="frame" x="0.0" y="0.0" width="105" height="150"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="LTj-L8-Ivu">
+                                <rect key="frame" x="0.0" y="5" width="105" height="145"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="LTj-L8-Ivu" secondAttribute="trailing" id="Ljc-vX-Hxg"/>
+                            <constraint firstItem="LTj-L8-Ivu" firstAttribute="top" secondItem="T08-h7-eHk" secondAttribute="top" constant="5" id="Y7w-C7-J2i"/>
+                            <constraint firstItem="LTj-L8-Ivu" firstAttribute="leading" secondItem="T08-h7-eHk" secondAttribute="leading" id="sZk-ug-RyY"/>
+                            <constraint firstAttribute="bottom" secondItem="LTj-L8-Ivu" secondAttribute="bottom" id="w8h-vh-31l"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="ZTg-uK-7eu" firstAttribute="trailing" secondItem="T08-h7-eHk" secondAttribute="trailing" id="OtN-eG-ZdF"/>
+                <constraint firstAttribute="top" secondItem="T08-h7-eHk" secondAttribute="top" id="Tft-EW-AQF"/>
+                <constraint firstItem="T08-h7-eHk" firstAttribute="leading" secondItem="ZTg-uK-7eu" secondAttribute="leading" id="Uhv-UI-v7N"/>
+                <constraint firstAttribute="bottom" secondItem="T08-h7-eHk" secondAttribute="bottom" id="u8A-k4-Ihz"/>
+            </constraints>
+            <size key="customSize" width="88" height="95"/>
+            <connections>
+                <outlet property="consTopDistance" destination="Y7w-C7-J2i" id="3cp-rk-Bf8"/>
+                <outlet property="image" destination="LTj-L8-Ivu" id="Xps-D6-Bma"/>
+                <outlet property="viewContainer" destination="T08-h7-eHk" id="Mt7-ex-kWB"/>
+            </connections>
+            <point key="canvasLocation" x="165.21739130434784" y="122.87946428571428"/>
+        </collectionViewCell>
+    </objects>
+</document>

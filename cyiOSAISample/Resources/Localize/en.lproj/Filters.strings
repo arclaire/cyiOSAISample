@@ -1,0 +1,103 @@
+/* 
+  Filters.strings
+ cyiOSAISample
+
+  Created by Michael on 08/11/19.
+  Copyright © 2020 JKT APPTech Limited. All rights reserved.
+*/
+
+// - Glitch Naming
+"filter_glitch_distortion" = "Glitch";
+"filter_glitch_slomo" = "Slow Mo";
+"filter_glitch_noise" = "Noise";
+"filter_glitch_displacement" = "Displacement";
+"filter_glitch_loop" = "Loop";
+"filter_glitch_aurora" = "Aurora";
+"filter_glitch_sequin" = "Sequin";
+"filter_glitch_obscure" = "Obscure";
+"filter_glitch_bw" = "Black and White";
+"filter_glitch_shake" = "Shake";
+
+// - Arts Naming
+"filter_api_anime" = "Anime";
+"filter_api_colorize" = "Colorize";
+"filter_arts_blend" = "Blend";
+"filter_arts_bluemoon" = "Blue";
+"filter_arts_chalk" = "Chalk";
+"filter_arts_comic" = "Comic";
+"filter_arts_dot" = "Dot";
+"filter_arts_dream" = "Dream";
+"filter_arts_dye" = "Dye";
+"filter_arts_frost" = "Frost";
+"filter_arts_gaze" = "Gaze";
+"filter_arts_lucid" = "Lucid";
+"filter_arts_marker" = "Marker";
+"filter_arts_match" = "Match";
+"filter_arts_memory" = "Memory";
+"filter_arts_orange" = "Orange";
+"filter_arts_portrait" = "Portrait";
+"filter_arts_radiant" = "Radiant";
+"filter_arts_rise" = "Rise";
+"filter_arts_scene" = "Scene";
+"filter_arts_shade" = "Shade";
+"filter_arts_shimmer" = "Shimmer";
+"filter_arts_smear" = "Smear";
+"filter_arts_splash" = "Splash";
+"filter_arts_stamp" = "Stamp";
+"filter_arts_vision" = "Vision";
+"filter_arts_wish" = "Wish";
+"filter_arts_woodland" = "Woodland";
+
+// - Tone Naming
+"filter_bw" = "B & W";
+"filter_blush" = "Blush";
+"filter_calm" = "Calm";
+"filter_dainty" = "Dainty";
+"filter_deep" = "Deep";
+"filter_pops" = "Pop";
+"filter_retro" = "Retro";
+"filter_season" = "Season";
+"filter_duotone" = "Duotone";
+
+// - Dynamic Naming
+"filter_dynamic_bounce" = "Bounce";
+"filter_dynamic_radiate" = "Radiate";
+"filter_dynamic_zoom" = "Zoom";
+"filter_dynamic_paparazzi" = "Paparazzi";
+"filter_dynamic_lapse" = "Lapse";
+"filter_dynamic_gamma" = "Gamma";
+
+// - Cutout
+"cutout_luxury" = "Luxury";
+"cutout_travel" = "Travel";
+"cutout_ruins" = "Ruins";
+"cutout_color" = "Color";
+"cutout_glitter" = "Glitter";
+"cutout_abstract" = "Abstract";
+"cutout_fantasy" = "Fantasy";
+"cutout_futuristic" = "Futuristic";
+"cutout_landscape" = "Landscape";
+"cutout_space" = "Space";
+
+// - Effects
+"effects_drawn" = "Drawn";
+"effects_lens" = "Lens";
+"effects_routine" = "Routine";
+
+// - Stickers
+"stickers_new" = "NEW";
+"stickers_popular" = "POPULAR";
+"stickers_accessories" = "Accessories";
+"stickers_animal" = "Animal";
+"stickers_cny" = "CNY";
+"stickers_decoration" = "Decoration";
+"stickers_element" = "Element";
+"stickers_food" = "Food";
+"stickers_frame" = "Frame";
+"stickers_nature" = "Nature";
+"stickers_party" = "Party";
+"stickers_text" = "Text";
+"stickers_travel" = "Travel";
+"stickers_valentine's" = "Valentine's";
+"stickers_hairstyle" = "Hairstyle";
+

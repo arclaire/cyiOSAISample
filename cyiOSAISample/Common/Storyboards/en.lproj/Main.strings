@@ -1,0 +1,213 @@
+
+/***
+Banner Slide Show
+*/
+"banner_art_title" = "Artistic Effects";
+"banner_art_desc" = "One-click to generate artistic style photo";
+"banner_aging_title" = "Aging Prediction";
+"banner_aging_desc" = "See your future through time";
+"banner_collage_title" = "Funny Collage";
+"banner_collage_desc" = "Combine your favorite moments";
+"banner_filter_title" = "Stylish Filter";
+"banner_filter_desc" = "Various styles of exquisite color filters";
+"banner_anime_title" = "Anime Avatar";
+"banner_anime_desc" = "Unlimited create anime avatar";
+"banner_cutout_title" = "Cut-out Studio";
+"banner_cutout_desc" = "Cut something from photos and paste to scenes";
+"banner_effects_title" = "Dazzling Effects";
+"banner_effects_desc" = "Optical and lots of effects to alter images";
+"banner_smartfill_title" = "Smart Eraser";
+"banner_smartfill_desc" = "Remove objects smartly without leaving traces";
+"banner_glitch_title" = "Glitch Visuals";
+"banner_glitch_desc" = "Upper level artistic touch";
+"banner_fullscreen_sticker_title" = "Fantasy Space";
+"banner_fullscreen_sticker_desc" = "Fullscreen and translucent mask layer";
+"banner_stickers_title" = "Funny Makeup";
+"banner_stickers_desc" = "Satisfy all fantasy in your selfie";
+
+/***
+ Home
+ */
+"TitleInNavigationBar" = "PicsMate";
+"Camera" = "CAMERA";
+"Edit" = "EDIT";
+"Trending" = "TOP FEATURES";
+"Filters" = "Stylish filter";
+"Arts" = "Artistic effects";
+"Collage" = "Funny Collage";
+"Effects" = "Dazzling Effects";
+"Glitch" = "Glitch Visuals";
+"Cutout" = "Cut-out Studio";
+"SmartFill" = "SMART ERASER";
+"Anime" = "Anime";
+"More" = "more";
+"Stickers" = "Funny Makeup";
+"Frame" = "Fantasy Space";
+
+"feature_aging" = "Aging";
+"feature_arts" = "Arts";
+"filter_zenith" = "Zenith";
+
+/***
+ Editor
+ */
+"CropTitleInEditorPage" = "Crop";
+"AdjustmentTitleInEditorPage" = "Adjustment";
+"FilterTitleInEditorPage" = "Filter";
+"ArtsTitleInEditorPage" = "Arts";
+"AgingTitleInEditorPage" = "Aging";
+"EffectsTitleInEditorPage" = "Effects";
+"StickersTitleInEditorPage" = "Makeup";
+
+"EffectCategoryTint" = "Tint";
+"EffectCategoryBasic" = "Basic";
+"EffectCategoryMirror" = "Mirror";
+
+"FreeTitleInCropModule" = "Free";
+
+"BrightnessInAdjustmentModule" = "Exposure";
+"ContrastInAdjustmentModule" = "Contrast";
+"SaturationInAdjustmentModule" = "Saturation";
+"TemperatureInAdjustmentModule" = "Temperature";
+"SharpenInAdjustmentModule" = "Sharpness";
+"HighlightInAdjustmentModule" = "Highlight";
+"VignetteInAdjustmentModule"  = "Vignette";
+"ShadowInAdjustmentModule" = "Shadow";
+"FlipInAdjustmentModule" = "Flip";
+
+"ImageSaved" = "Image has been saved";
+
+"FaceNotDetected" = "Face not detected";
+
+/***
+ Settings
+ */
+"ContactUs" = "Contact Us";
+"RateUs" = "Rate Us";
+"TermsOfService" = "Terms of Service";
+"PrivacyPolicy" = "Privacy Policy";
+"AppVersion" = "PicsMate version";
+"AppCopyright" = "© 2020 Deepindo Technology";
+"Contact" = "We would love to hear from you! Contact us via email to customer@deepindo.com";
+"AboutUs" = "About Us";
+
+"PermissionCameraTitle" = "\"PicsMate\" would \nlike to access your \nCamera";
+"PermissionGalleryTitle" = "Request access \nto your Photos";
+"PermissionCameraSubtitle" = "PicsMate would like to access your camera to let you capture photos. Your photos won't be saved or shared without your permission";
+"PermissionGallerySubtitle" = "PicsMate would like to access your photo gallery to let you select a photo to edit. Your photos won't be saved or shared without your permission";
+
+"GoToSettings" = "Go to Settings";
+"OK" = "OK";
+"Cancel" = "Cancel";
+"Continue" = "Upgrade Now";
+"NotSureYet" = "Not sure yet?";
+
+/***
+ Subscribe
+ */
+"YouGotAReward" = "You got a reward!";
+"text_vip_features_title" = "ACCESS ALL VIP FEATURES";
+"text_subscribe_disclaimer" = "Payment for subscription will be automatically charged at the end of 3-day trial period. Payment will be charged to your iTunes Account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage or cancel your subscriptions by going to your account settings on the App Store after purchase. If you pay for a subscription during the free trial period, any unused portion of a free trial period will be forfeited immediately.";
+"text_subscribe_disclaimerA2" = "Payment will be charged to your iTunes Account at the confirmation of purchase.Subscription automatically renews unless it is canceled at lease 24 hours before the end of the current period.Your account will be charged for renewal within 24 hours prior to the end of the current period.You can manage or cancel your subscription by going to your account settings on the AppStore after purchase.";
+"text_subscribe_disclaimer_notrial" = "Payment will be charged to your iTunes Account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage or cancel your subscriptions by going to your account settings on the App Store after purchase.";
+"text_subscribe_disclaimer_weekly" = "Only %@/Week, Payment will be charged to your iTunes Account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage or cancel your subscriptions by going to your account settings on the App Store after purchase.";
+"text_subscribe_disclaimer_monthly" = "Only %@/Month, Payment will be charged to your iTunes Account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage or cancel your subscriptions by going to your account settings on the App Store after purchase.";
+"text_subscribe_disclaimer_yearly" = "Only %@/Year, Payment will be charged to your iTunes Account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage or cancel your subscriptions by going to your account settings on the App Store after purchase.";
+"text_subscribe_weekly" = "Weekly:";
+"text_subscribe_monthly" = "Monthly:";
+"text_subscribe_yearly" = "Yearly:";
+"text_subscribe_auto_renew_weekly" = "Plan auto-renews weekly, after 3-day free trial";
+"text_subscribe_auto_renew_weekly_notrial" = "Plan auto-renews weekly";
+"text_subscribe_auto_renew_monthly" = "Plan auto-renews monthly, after 3-day free trial";
+"text_subscribe_auto_renew_monthly_notrial" = "Plan auto-renews monthly";
+"text_subscribe_auto_renew_yearly" = "Plan auto-renews yearly, after 3-day free trial";
+"text_subscribe_auto_renew_yearly_notrial" = "Plan auto-renews yearly";
+"text_subscribe_weekly_retain_price" = "Then only %@/week, auto-renewable";
+"text_subscribe_monthly_retain_price" = "Then only %@/monthly, auto-renewable";
+"text_subscribe_yearly_retain_price" = "Then only %@/year, auto-renewable";
+"text_subscribe_restore" = "Restore Purchase";
+"text_subscribe_popup_title" = "PicsMate VIP";
+"text_subscribe_popup_subtitle" = "Unlimited Access to all features";
+"text_subscribe_now" = "Subscribe Now";
+"text_subscribe_planb_subtitle" = "Create dreamy artistic photos";
+"text_subscribe_features" = "Arts, Aging, Filters, and more";
+"text_subscribe_try_app" = "PicsMate VIP";
+"text_subscribe_try_trial" = "3-day FREE Trial";
+"text_subscribe_try_free" = "Try It Now";
+"text_subscribe_access_all" = "Access All";
+"text_subscribe_premium_features" = "Premium Features";
+"text_planc_try" = "Try It Free";
+"text_planc_getresult" = "GET MY RESULT";
+"text_popup_art_subtitle" = "Your art style has been generated";
+"text_popup_aging_subtitle" = "Your future look has been generated";
+"text_popup_anime_subtitle" = "Your Anime image has been generated";
+"text_planc_view" = "View The Photo";
+"text_subscribe_tick1" = "Constantly update collage style, filters, stickers, templates";
+"text_subscribe_tick2" = "Access all collage style, filters, stickers, templates";
+"text_subscribe_tick3" = "Unlimited access to all advanced features";
+
+/**
+ Aging
+ */
+"text_face_area" = "Please place your face inside box area";
+
+/**
+ Quick Actions
+ */
+"text_quick_action_gallery" = "Gallery";
+"text_quick_action_camera" = "Camera";
+
+"text_try_app" = "Free trial for new users";
+"Congratulations" = "Congratulations!";
+"text_loading_process" = "Processing...";
+"text_no_internet" = "No Internet connection.\nMake sure that Wi-Fi or mobile data is turned on, then try again.";
+"text_ask_review" = "Do you like PicsMate?";
+"text_review_like" = "Yes, I like it";
+"text_review_dislike" = "No, I want to give feedback";
+"text_more_layout" = "More layouts";
+"title_navigation_collage" = "Select a layout";
+"title_navigation_galery" = "Select Photo";
+"collage_cell_info" = "Add Photo";
+
+/**
+Anime
+*/
+"no_network_popup_title" = "SORRY, PROCESSING FAILED";
+"no_network_popup_desc" = "The network connection cannot be accessed. Try again?";
+"retry" = "Retry";
+
+"api_failed_popup_title" = "SORRY, PROCESSING FAILED";
+"api_failed_popup_desc" = "This image could not be processed. Try another one please.";
+
+"img_too_small_popup_title" = "SORRY, PROCESSING FAILED";
+"img_too_small_popup_desc" = "Image seems too small to be processed. Try another one please.";
+
+/**
+SmartFill
+*/
+"brush" = "revise";
+"eraser" = "Eraser";
+"img_too_big_popup_title" = "SORRY, PROCESSING FAILED";
+"img_too_big_popup_desc" = "Image seems too big to be processed. Try another one please.";
+
+/**
+ Cutout
+ */
+"text_cutout_browse_title" = "Select a template";
+
+/**
+ Stickers
+ */
+"text_search" = "Search";
+"text_sticker_browse_title" = "Select Sticker";
+
+/**
+ Frame
+ */
+"text_frame_browse_title" = "Select Full Sticker";
+"text_frame_more" = "More";
+
+"category" = "Photo";
+"categories" = "Photos";
+
+"Subscription" = "Subscription";

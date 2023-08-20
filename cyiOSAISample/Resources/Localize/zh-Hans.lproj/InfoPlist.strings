@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+ cyiOSAISample
+
+  Created by Michael on 15/11/19.
+  Copyright © 2020 JKT APPTech Limited. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "cyiOSAISample";
+"CFBundleName" = "cyiOSAISample";
+"NSCameraUsageDescription" = "允许\"cyiOSAISample\"访问相机即可拍摄新的照片并编辑和保存";
+"NSPhotoLibraryUsageDescription" = "允许\"cyiOSAISample\"访问照片即可选择照片进行编辑或保存照片";
+"NSMicrophoneUsageDescription" = "允许\"cyiOSAISample\"访问麦克风即可为您的视频录制声音";

@@ -1,0 +1,219 @@
+
+/***
+Banner Slide Show
+*/
+"banner_art_title" = "藝術特效";
+"banner_art_desc" = "一鍵即可生成藝術風格大片";
+"banner_aging_title" = "變老特效";
+"banner_aging_desc" = "穿越時間看見未來的你";
+"banner_collage_title" = "拼貼組合";
+"banner_collage_desc" = "整理組合多個精彩瞬間";
+"banner_filter_title" = "風格濾鏡";
+"banner_filter_desc" = "多樣風格精美色彩濾鏡";
+"banner_anime_title" = "動漫形象";
+"banner_anime_desc" = "無限次生成動漫形象";
+"banner_cutout_title" = "剪接工作室";
+"banner_cutout_desc" = "不留痕跡完美擦除多餘物體";
+"banner_effects_title" = "炫目特效";
+"banner_effects_desc" = "炫麗奪目特殊效果改變圖片";
+"banner_smartfill_title" = "智慧橡皮擦";
+"banner_smartfill_desc" = "不留痕跡完美擦除多餘物體";
+"banner_glitch_title" = "故障視覺";
+"banner_glitch_desc" = "更高級的科技藝術視角";
+"banner_fullscreen_sticker_title" = "虛幻空間";
+"banner_fullscreen_sticker_desc" = "創新全屏半透明遮罩層";
+"banner_stickers_title" = "趣味裝扮";
+"banner_stickers_desc" = "自拍必備滿足所有幻想";
+
+/***
+ Home
+ */
+"TitleInNavigationBar" = "PicsMate";
+"Camera" = "相機";
+"Edit" = "編輯";
+"Trending" = "流行";
+"Filters" = "風格濾鏡";
+"Arts" = "藝術特效";
+"Collage" = "拼貼組合";
+"Anime" = "動漫形象";
+"More" = "更多";
+"SmartFill" = "智慧橡皮擦";
+"Effects" = "炫目特效";
+"Glitch" = "故障視覺";
+"Cutout" = "剪接工作室";
+"Stickers" = "趣味裝扮";
+"Frame" = "虛幻空間";
+
+"feature_aging" = "变老特效";
+"feature_arts" = "藝術";
+"filter_zenith" = "Zenith";
+
+/***
+ Editor
+ */
+"CropTitleInEditorPage" = "裁剪";
+"AdjustmentTitleInEditorPage" = "調整";
+"FilterTitleInEditorPage" = "濾鏡";
+"ArtsTitleInEditorPage" = "藝術";
+"AgingTitleInEditorPage" = "時光機";
+"EffectsTitleInEditorPage" = "特效";
+"StickersTitleInEditorPage" = "裝扮";
+
+"EffectCategoryTint" = "著色";
+"EffectCategoryBasic" = "基本";
+"EffectCategoryMirror" = "鏡子";
+
+"FreeTitleInCropModule" = "Free";
+
+"BrightnessInAdjustmentModule" = "亮度";
+"ContrastInAdjustmentModule" = "對比度";
+"SaturationInAdjustmentModule" = "飽和度";
+"TemperatureInAdjustmentModule" = "色溫";
+"SharpenInAdjustmentModule" = "銳度";
+"HighlightInAdjustmentModule" = "高光";
+"VignetteInAdjustmentModule"  = "暗角";
+"ShadowInAdjustmentModule" = "陰影";
+"FlipInAdjustmentModule" = "翻轉";
+
+"ImageSaved" = "已保存到系統相冊";
+
+"FaceNotDetected" = "沒有檢測到臉部";
+
+/***
+ Settings
+ */
+"ContactUs" = "聯系我們";
+"RateUs" = "鼓勵我們";
+"TermsOfService" = "服務條款";
+"PrivacyPolicy" = "隱私政策";
+"AppVersion" = "必美相機 version";
+"AppCopyright" = "© 2020 Deepindo Technology";
+"Contact" = "我們很願意傾聽您的聲音，歡迎隨時通過customer@deepindo.com郵件聯系我們";
+"AboutUs" = "關於我們";
+
+"PermissionCameraTitle" = "“必美相機”\n想訪問\n您的相機";
+"PermissionGalleryTitle" = "請求訪問\n您的照片";
+"PermissionCameraSubtitle" = "必美相機請求訪問您的相機以便您拍照。未經您允許，您的照片不會被保存或分享。";
+"PermissionGallerySubtitle" = "必美相機請求訪問您的相冊以便您選擇照片進行編輯。未經您允許，您的照片不會被保存或分享。";
+
+"GoToSettings" = "去設置";
+"OK" = "好";
+"Cancel" = "撤消";
+"Continue" = "繼續";
+"NotSureYet" = "您再想想？";
+
+/***
+ Subscribe
+ */
+"text_vip_features_title" = "訪問所有VIP 素材和高級功能";
+"text_subscribe_disclaimer" = "訂閱付款將在3天的試用期結束時自動收取。購買確認後，付款將從您的iTunes帳戶中扣除。訂閱會自動續訂，除非在當前期限結束前至少24小時取消訂閱。我們會在當前期限結束前的24小時內向您的帳戶收取續訂費用。購買後，您可以進入App Store的帳戶設置來管理或取消訂閱。如果您在免費試用期內支付訂閱費用，則免費試用期內未使用的任何部分將被立即沒收。";
+"text_subscribe_disclaimerA2" = "購買確認後，付款將從您的iTunes帳戶中扣除。訂閱會自動續訂，除非在當前期限結束前至少24小時取消訂閱。我們將會在當前期限結束前的24小時內向您的帳戶收取續訂費用。購買後，您可以進入AppStore的帳戶設定來管理或取消訂閱。";
+"text_subscribe_disclaimer_notrial" = "購買確認後，付款將從您的iTunes帳戶中扣除。訂閱會自動續訂，除非在當前期限結束前至少24小時取消訂閱。我們會在當前期限結束前的24小時內向您的帳戶收取續訂費用。購買後，您可以進入App Store的帳戶設置來管理或取消訂閱。";
+"text_subscribe_disclaimer_weekly" = "僅需%@/週，購買確認後，付款將從您的iTunes帳戶中扣除。訂閱會自動續訂，除非在當前期限結束前至少24小時取消訂閱。我們會在當前期限結束前的24小時內向您的帳戶收取續訂費用。購買後，您可以進入App Store的帳戶設置來管理或取消訂閱。";
+"text_subscribe_disclaimer_monthly" = "僅需%@/月度，購買確認後，付款將從您的iTunes帳戶中扣除。訂閱會自動續訂，除非在當前期限結束前至少24小時取消訂閱。我們會在當前期限結束前的24小時內向您的帳戶收取續訂費用。購買後，您可以進入App Store的帳戶設置來管理或取消訂閱。";
+"text_subscribe_disclaimer_yearly" = "僅需%@/年，購買確認後，付款將從您的iTunes帳戶中扣除。訂閱會自動續訂，除非在當前期限結束前至少24小時取消訂閱。我們會在當前期限結束前的24小時內向您的帳戶收取續訂費用。購買後，您可以進入App Store的帳戶設置來管理或取消訂閱。";
+"text_subscribe_weekly" = "每周：";
+"text_subscribe_monthly" = "每月：";
+"text_subscribe_yearly" = "每年：";
+"text_subscribe_auto_renew_weekly" = "3天免費試用，然後按周自動續費";
+"text_subscribe_auto_renew_weekly_notrial" = "按周自動續訂";
+"text_subscribe_auto_renew_monthly" = "3天免費試用，然後按月自動續費";
+"text_subscribe_auto_renew_monthly_notrial" = "按月自動續訂";
+"text_subscribe_auto_renew_yearly" = "3天免費試用，然後按年自動續費";
+"text_subscribe_auto_renew_yearly_notrial" = "按年自動續訂";
+"text_subscribe_weekly_retain_price" = "然後僅需%@/周，可自動續訂";
+"text_subscribe_monthly_retain_price" = "然後僅需%@/月度，可自動續訂";
+"text_subscribe_yearly_retain_price" = "然後僅需%@/年，可自動續訂";
+"text_subscribe_restore" = "恢復購買";
+"text_subscribe_popup_title" = "必美VIP";
+"text_subscribe_popup_subtitle" = "無限制訪問所有功能";
+"text_subscribe_now" = "立即訂閱";
+"text_subscribe_planb_subtitle" = "把照片變成大師級藝術品";
+"text_subscribe_features" = "藝術、變老、濾鏡以及更多";
+"text_subscribe_try_app" = "PicsMate PRO高級功能";
+"text_subscribe_try_trial" = "3天免費試用";
+"text_subscribe_try_free" = "免費試用";
+"text_subscribe_access_all" = "訪問所有功能";
+"text_subscribe_premium_features" = "高級功能";
+"text_planc_try" = "免費試用";
+"text_popup_art_subtitle" = "您的藝術形象已經生成";
+"text_popup_aging_subtitle" = "您未來的樣子已經生成";
+"text_popup_anime_subtitle" = "您的動漫形像已製作完成";
+"text_planc_view" = "查看照片";
+"text_subscribe_tick1" = "不斷更新拼圖樣式、濾鏡、貼紙、範本";
+"text_subscribe_tick2" = "訪問所有拼圖樣式、濾鏡、貼紙、範本";
+"text_subscribe_tick3" = "不限次數地訪問所有高級功能";
+
+/**
+ Aging
+ */
+"text_face_area" = "請保持面部在線框內";
+
+/**
+ Quick Actions
+ */
+"text_quick_action_gallery" = "畫廊";
+"text_quick_action_camera" = "相機";
+
+"text_planc_getresult" = "查看我的效果";
+"YouGotAReward" = "現在新用戶免費";
+"text_popup_art_subtitle" = "您的藝術形象已經生成";
+"text_popup_aging_subtitle" = "您未來的樣子已經生成";
+
+"text_try_app" = "";// no need translation supposed to be empty
+"Congratulations" = "恭喜中獎啦!";
+"text_loading_process" = "正在处理...";
+"text_no_internet" = "沒有網路連接\n確認Wi-Fi或移動數據已開啓，然後再嘗試";
+"text_ask_review" = "你喜歡必美相機麽？";
+"text_review_like" = "是的，我喜欢";
+"text_review_dislike" = "不，我要反馈";
+
+"text_more_layout" = "更多佈局";
+"title_navigation_collage" = "選擇佈局";
+"collage_cell_info" = "添加照片";
+"title_navigation_galery" = "選擇照片";
+
+
+/**
+Anime
+*/
+"no_network_popup_title" = "抱歉，處理失敗了";
+"no_network_popup_desc" = "網絡連接無法訪問，再試一次？";
+"retry" = "再試一次";
+
+"api_failed_popup_title" = "抱歉，處理失敗了";
+"api_failed_popup_desc" = "這張圖片無法處理 , 請嘗試另外一張。";
+
+"img_too_small_popup_title" = "抱歉，處理失敗了";
+"img_too_small_popup_desc" = "這張圖片似乎太小了，請嘗試另外一張。";
+
+/**
+SmartFill
+*/
+"brush" = "修改";
+"eraser" = "橡皮擦";
+"img_too_big_popup_title" = "抱歉，處理失敗了";
+"img_too_big_popup_desc" = "圖片似乎太大了，無法處理，請試試另一個。";
+
+/**
+ Cutout
+ */
+"text_cutout_browse_title" = "選擇模板";
+
+/**
+ Stickers
+ */
+"text_search" = "搜索";
+"text_sticker_browse_title" = "選擇貼紙";
+
+/**
+ Frame
+ */
+"text_frame_browse_title" = "選擇全屏貼紙";
+"text_frame_more" = "更多";
+
+"category" = "張照片";
+"categories" = "張照片";
+
+"Subscription" = "訂閱";
+

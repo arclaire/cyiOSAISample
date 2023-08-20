@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C5FA3BF1-9805-4683-9A8D-A2C680CFE2B7"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF8A0A2D-708E-44F4-80F9-92DED1095AE9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cyiOSAISample/Modules/Editor/Model/Adjustment/SDUndoOperator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "NSNotification.Name"
+            landmarkType = "21">
+            <Locations>
+               <Location
+                  uuid = "FF8A0A2D-708E-44F4-80F9-92DED1095AE9 - 62ebe342cf4f7e92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for UIEffectIntensityNotification"
+                  moduleName = "cyiOSAISample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bnc/Desktop/cy/cyiOSAISample/cyiOSAISample/Modules/Editor/Model/Adjustment/SDUndoOperator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "FF8A0A2D-708E-44F4-80F9-92DED1095AE9 - 31357790ed18044b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.NSNotificationName.UIEffectIntensityNotification.unsafeMutableAddressor : __C.NSNotificationName"
+                  moduleName = "cyiOSAISample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bnc/Desktop/cy/cyiOSAISample/cyiOSAISample/Modules/Editor/Model/Adjustment/SDUndoOperator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

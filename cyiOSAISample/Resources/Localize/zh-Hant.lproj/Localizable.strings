@@ -1,0 +1,305 @@
+/* 
+  Localize.strings
+ cyiOSAISample
+
+  Created by Michael on 13/09/19.
+  Copyright © 2020 JKT APPTech Limited. All rights reserved.
+*/
+
+"title_app" = "深度相機";
+
+"text_contact" = "我們很願意傾聽您的聲音，歡迎隨時通過services@apptime.vip郵件聯系我們";
+"text_top_features" = "精選類別";
+"text_top_filters" = "精選濾鏡";
+"text_all_photos" = "所有照片";
+"text_edit" = "編輯";
+"text_camera" = "相機";
+"text_frame" = "畫框";
+
+/**
+ Home Page
+ */
+"banner_anime" = "炫酷動漫";
+"banner_hairstyle" = "百變髮型";
+"banner_aging" = "時光機";
+"banner_arts" = "藝術創作";
+"banner_filter" = "風格濾鏡";
+"banner_cutout" = "魔法剪影";
+"banner_effect" = "趣味魔鏡";
+"banner_young" = "變年輕";
+
+"banner_anime_title" = "";
+"banner_hairstyle_title" = "";
+"banner_aging_title" = "";
+"banner_arts_title" = "";
+"banner_filter_title" = "";
+"banner_cutout_title" = "";
+"banner_effect_title" = "";
+"banner_young_title" = "";
+
+"banner_young_description" = "帶你回到年輕時代";
+"banner_anime_description" = "快速生成動漫卡通形象";
+"banner_hairstyle_description" = "輕鬆體驗各種潮流髮型";
+"banner_aging_description" = "跨越時間遇見您的未來";
+"banner_arts_description" = "釋放創造力一秒出大片";
+"banner_filter_description" = "各種風格創意用色多姿多彩";
+"banner_cutout_description" = "移花接木時空轉移場景無限";
+"banner_effect_description" = "超乎你想象的趣味特效";
+
+"feature_anime" = "炫酷動漫";
+"feature_aging" = "時光機";
+"feature_arts" = "藝術創作 ";
+"feature_glitch" = "故障特效";
+"feature_filter" = "風格濾鏡";
+"feature_dynamic" = "動感特效";
+"feature_cutout" = "魔法剪影";
+"feature_stickers" = "潮流貼紙";
+"feature_colorize" = "智能上色";
+"feature_effect" = "趣味魔鏡";
+"feature_younger" = "變年輕";
+
+/**
+ Camera
+ */
+"GiveLikeInSureCamera" = "棒棒噠！";
+"SaveTitleInSureCamera" = "保存";
+"ShareTitleInSureCamera" = "分享";
+"EditorTitleInSureCamera" = "編輯";
+"RetakeTitleInSureCamera" = "重拍";
+
+"SureTitleInSureCameraToastView" = "Do you want to save this photo?";
+"SuccessSavedInSureCameraToastView" = "已保存到系統相冊";
+"SuccessVideoSavedToastView" = "視頻已保存";
+
+/**
+Glitch
+*/
+"SuccessSavedInGlitch" = "故障效果已保存";
+
+
+/**
+ Editor Page
+ */
+"SavingTitleInEditorPage" = "已保存到系統相冊";
+
+"ResizeTitleInEditorPage" = "尺寸";
+"AdjustmentTitleInEditorPage" = "調整";
+"FilterTitleInEditorPage" = "濾鏡";
+"ArtFilterTitleInEditorPage" = "藝術";
+"EffectsFilterTitleInEditorPage" = "特效";
+"StickersTitleInEditorPage" = "贴纸";
+
+"CropInEditorPage" = "尺寸";
+"AdjustInEditorPage" = "調整";
+"FilterInEditorPage" = "濾鏡";
+
+"ProcessFailedTitle" = "抱歉，處理失敗了";
+"ProcessFailedRetry" = "再試一次";
+"ProcessFailedCancel" = "取消";
+"ProcessFailedOK" = "OK";
+"ProcessFailedInfoConnection" = "網絡連接無法訪問，再試一次？";
+"ProcessFailedInfoRequirements" = "這張圖片似乎太小了，請嘗試另外一張。";
+"ProcessFailedInfoAPIProcess" = "這張圖片無法處理 , 請嘗試另外一張。";
+
+/**
+ Adjustment
+ */
+"BrightnessInAdjustmentFundation" = "曝光";
+"SaturationInAdjustmentFundation" = "飽和度";
+"ContrastInAdjustmentFundation" = "對比度";
+"TemperatureInAdjustmentFundation" = "色溫";
+"SharpnessInAdjustmentFundation" = "清晰度";
+"HighlightInAdjustmentFundation" = "高光";
+"ShadowInAdjustmentFundation" = "陰影";
+"VignetteInAdjustmentFundation" = "暗角";
+"MirrorInAdjustmentFundation" = "鏡像";
+"RotateInAdjustmentFundation" = "旋轉";
+"TransparencyInAdjustmentFoundation" = "透明";
+"BlurInAdjustmentFoundation" = "模糊";
+
+/**
+ Aging
+ */
+"MakeYourFaceWithinTheLine" = "請將臉部正面放置在線框內";
+"AgingValue90" = "90歲";
+"AgingValue70" = "70歲";
+"AgingValue50" = "50歲";
+"FaceDetectedFailTitle" = "NO FACE DETECTED!";
+"FaceDetectedFailDesc" = "啊哦，我們沒有檢測到人臉。請上傳只有一個人臉而且臉部完整的照片，或確保拍照時你的臉在線框內。";
+"FaceDetectedFailRetry" = "再試一次";
+
+/**
+ Settings
+ */
+"ContactUs" = "联系我们";
+"RateUs" = "鼓勵我們";
+"Version" = "版本";
+"cyiOSAISample" = "cyiOSAISample";
+"PrivacyPolicy" = "隱私政策";
+"TermsOfService" = "服務條款";
+"Copyright" = "©2020年 Apptime Technology";
+"SotaCamPro" = "深度相機 PRO";
+"AccessAllFeatures" = "訪問所有高級功能";
+"FollowFacebook" = "在Facebook上關注我們";
+"FeaturesInfo" = "卡通，藝術，變老，髮型，濾鏡以及更多";
+"UpgradeNow" = "立即升級到PRO";
+
+/**
+ Permissions
+ */
+"PermissionGalleryTitle" = "請求訪問您的照片";
+"PermissionGallerySubtitle" = "請到手機設置界面找到\"深度相機\"並允許訪問照片";
+"PermissionCameraTitle" = "請求訪問您的相機";
+"PermissionCameraSubtitle" = "請到手機設置界面找到\"深度相機\"並允許訪問相機";
+"GoToSettings" = "去設置";
+
+/**
+ VIP Pages
+ */
+"text_vip_features_title" = "訪問所有高級功能";
+"text_promo_subscribe" = "• 無限制使用所有濾鏡和效果\n• 每月更新濾鏡和效果\n• 無廣告的流暢體驗";
+"text_subscribe_now" = "訂閱";
+"text_subscribe_restore_purchase" = "恢復購買";
+"text_subscribe_disclaimer" = "訂閱付款將在3天的試用期結束時自動收取。購買確認後，付款將從您的iTunes帳戶中扣除。訂閱會自動續訂，除非在當前期限結束前至少24小時取消訂閱。我們會在當前期限結束前的24小時內向您的帳戶收取續訂費用。購買後，您可以進入App Store的帳戶設置來管理或取消訂閱。如果您在免費試用期內支付訂閱費用，則免費試用期內未使用的任何部分將被立即沒收。 如果您購買Lifetime PRO，則只需支付一次費用，就可以無限使用所有功能。";
+"text_subscribe_no_trial_disclaimer" = "購買確認後，付款將從您的iTunes帳戶中扣除。訂閱會自動續訂，除非在當前期限結束前至少24小時取消訂閱。我們會在當前期限結束前的24小時內向您的帳戶收取續訂費用。購買後，您可以進入App Store的帳戶設置來管理或取消訂閱。如果您購買Lifetime PRO，則只需支付一次費用，就可以永久無限制地使用所有功能。";
+"text_subscribe_disclaimer_lifetime" = "終身PRO限時優惠僅需 %@，購買確認後，付款將從您的iTunes賬戶中扣除，只需支付一次費用，付款成功後，您就可以永久無限制地使用所有功能。";
+"text_subscribe_disclaimer_weekly" = "僅需%@/週，購買確認後，付款將從您的iTunes帳戶中扣除。訂閱會自動續訂，除非在當前期限結束前至少24小時取消訂閱。我們會在當前期限結束前的24小時內向您的帳戶收取續訂費用。購買後，您可以進入App Store的帳戶設置來管理或取消訂閱。";
+"text_subscribe_disclaimer_monthly" = "僅需%@/月，購買確認後，付款將從您的iTunes帳戶中扣除。訂閱會自動續訂，除非在當前期限結束前至少24小時取消訂閱。我們會在當前期限結束前的24小時內向您的帳戶收取續訂費用。購買後，您可以進入App Store的帳戶設置來管理或取消訂閱。";
+"text_subscribe_disclaimer_yearly" = "僅需%@/年，購買確認後，付款將從您的iTunes帳戶中扣除。訂閱會自動續訂，除非在當前期限結束前至少24小時取消訂閱。我們會在當前期限結束前的24小時內向您的帳戶收取續訂費用。購買後，您可以進入App Store的帳戶設置來管理或取消訂閱。";
+"text_subscribe_lifetime_retain_price" = "僅需%@，付款一次，永久有效";
+"text_subscribe_weekly_retain_price" = "然後僅需%@/周，可自動續訂";
+"text_subscribe_monthly_retain_price" = "然後僅需%@/月，可自動續訂";
+"text_subscribe_yearly_retain_price" = "然後僅需%@/年，可自動續訂";
+"text_yearly" = "每年：";
+"text_weekly" = "每周：";
+"text_monthly" = "每月：";
+"text_lifetime" = "終身PRO： ";
+"text_yearly_button" = "每年";
+"text_weekly_button" = "每周";
+"text_monthly_button" = "月度";
+"text_lifetime_button" = "終身PRO";
+"text_auto_renew_weekly" = "3天免費試用，然後按周自動續費";
+"text_auto_renew_monthly" = "3天免費試用，然後按月自動續費";
+"text_auto_renew_yearly" = "3天免費試用，然後按年自動續費";
+"text_auto_renew_weekly_no_trial" = "按周自動續訂";
+"text_auto_renew_monthly_no_trial" = "按月自動續訂";
+"text_auto_renew_yearly_no_trial" = "按年自動續訂";
+"text_lifetime_desc" = "一次付費，終身有效，無需續費";
+"text_popup_subtitle" = "訪問所有高級功能和濾鏡";
+"text_upgrade_now" = "馬上升級";
+"text_and_then_price" = "然後";
+"text_acs_title" = "訪問所有";
+"text_acs_subtitle" = "把照片變成大師級藝術品";
+"text_premium_features" = "高級功能";
+"text_premium_lifetime" = "終身";
+"text_week" = "周";
+"text_are_you_sure" = "您再想想？";
+"text_try_app" = "所有PRO高級功能";
+"text_try_trial" = "3天免費試用";
+"text_cancel" = "取消";
+"text_try_free" = "免費試用";
+"text_free_for_life" = "永久免費";
+"text_continue" = "繼續";
+"text_planc_try" = "現在試試";
+"text_planc_getresult" = "查看照片";
+"text_planc_title_anime" = "您的動漫形像已製作完成";
+"text_planc_title_younger" = "您的年輕照片準備好了";
+"text_planc_title_hairstyle" = "你的新造型已生成";
+"text_planc_title_cutout" = "你的剪影完成了";
+"text_subscription_retain_title" = "恭喜中獎啦!";
+"text_subscription_retain_subtitle1" = "";
+"text_subscription_retain_subtitle2" = "現在新用戶免費";
+"text_subscription_retain_subscribe" = "免費試用";
+
+/**
+ Stickers
+ */
+"text_search" = "搜索";
+
+/**
+ Frame
+ */
+"text_frame_browse_title" = "選擇畫框";
+"text_frame_more" = "更多";
+
+/**
+ Cutout
+ */
+"text_cutout_browse_title" = "選擇模板";
+
+/**
+ Internet Helpers
+ */
+"text_no_internet" = "沒有網路連接";
+"text_turn_on_data" = "確認Wi-Fi或移動數據已開啓，然後再嘗試";
+
+/**
+ Quick Actions
+ */
+"text_quick_action_gallery" = "畫廊";
+"text_quick_action_camera" = "相機";
+
+/**
+ Rate
+ */
+"text_store_review" = "喜歡“深度相機”么？";
+"text_store_like" = "是的，我喜歡";
+"text_store_dislike" = "不，我要反饋";
+
+/**
+ Common
+*/
+"ProcessLoading" = "正在處理……";
+"NoInternet" = "沒有網路連接";
+"common_edit_gallery" = "相册";
+"common_edit_edit" = "編輯";
+"common_edit_home" = "首頁";
+
+/**
+ Gallery
+ */
+"text_gallery_title" = "選擇照片";
+
+"SubscribeTick1" = "不斷更新相框、濾鏡、貼紙、模板";
+"SubscribeTick2" = "訪問相框、濾鏡、貼紙、模板中的所有素材";
+"SubscribeTick3" = "無限制地訪問所有高級功能";
+
+"younger10" =  "10";
+"younger18" =  "18";
+"younger25" =  "25";
+"younger30" =  "30";
+
+"title_getting_younger" = "變年輕";
+"Select Age" = "選擇年齡";
+
+
+"FailedOperation.DetectNoFace" = "未检测到人脸，请重试";
+"FailedOperation.FaceExceedBorder" = "未检测到人脸，请重试";
+"FailedOperation.FaceSizeTooSmall" = "未检测到人脸，请重试";
+
+"FailedOperation.FreqCtrl" = "服务器繁忙，请稍后重试";
+"FailedOperation.ImageDecodeFailed.DetectNoFace" = "服务器繁忙，请稍后重试";
+"FailedOperation.ImageDownloadError" = "服务器繁忙，请稍后重试";
+"FailedOperation.ImageResolutionTooSmall" = "服务器繁忙，请稍后重试";
+"FailedOperation.RequestEntityTooLarge" = "服务器繁忙，请稍后重试";
+"FailedOperation.RequestTimeout" = "服务器繁忙，请稍后重试";
+"InvalidParameterValue.FaceRectInvalidFirst" = "服务器繁忙，请稍后重试.";
+"InvalidParameterValue.FaceRectInvalidSecond" = "服务器繁忙，请稍后重试";
+"InvalidParameterValue.FaceRectInvalidThrid" = "服务器繁忙，请稍后重试";
+"InvalidParameterValue.ImageSizeExceed" = "服务器繁忙，请稍后重试";
+
+"InvalidParameterValue.NoFaceInPhoto" = "未检测到人脸，请重试";
+
+"InvalidParameterValue.ParameterValueError" = "服务器繁忙，请稍后重试";
+"ResourceUnavailable.Delivering" = "服务器繁忙，请稍后重试";
+"ResourceUnavailable.Freeze" = "服务器繁忙，请稍后重试";
+"ResourceUnavailable.GetAuthInfoError" = "服务器繁忙，请稍后重试";
+"ResourceUnavailable.InArrears" = "服务器繁忙，请稍后重试";
+"ResourceUnavailable.LowBalance" = "服务器繁忙，请稍后重试";
+"ResourceUnavailable.NotReady" = "服务器繁忙，请稍后重试";
+"ResourceUnavailable.Recover" = "服务器繁忙，请稍后重试";
+"ResourceUnavailable.StopUsing" = "服务器繁忙，请稍后重试";
+"ResourceUnavailable.UnknownStatus" = "服务器繁忙，请稍后重试";
+"ResourcesSoldOut.ChargeStatusException" = "服务器繁忙，请稍后重试";
+
+"title_navigation_galery" = "選擇照片";

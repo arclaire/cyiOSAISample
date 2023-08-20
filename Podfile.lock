@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.7.1)
+  - CryptoSwift (1.7.1)
+  - lottie-ios (4.2.0)
+  - SnapKit (5.6.0)
+  - SwiftyUserDefaults (5.3.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - CryptoSwift
+  - lottie-ios
+  - SnapKit
+  - SwiftyUserDefaults
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CryptoSwift
+    - lottie-ios
+    - SnapKit
+    - SwiftyUserDefaults
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  CryptoSwift: d3d18dc357932f7e6d580689e065cf1f176007c1
+  lottie-ios: 809ecf2d460ed650a6aed7aa88b2ec45fab4779c
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SwiftyUserDefaults: 63f80248cf5bfb3458825d9a78f2eb7e1293a040
+
+PODFILE CHECKSUM: 9851d61fa647e51c08d7223edfdaedbdaa976460
+
+COCOAPODS: 1.11.3
